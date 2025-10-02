@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\bin\Debug\net7.0\atividade-7-Isabely-02-10-2025.exe
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\bin\Debug\net7.0\atividade-7-Isabely-02-10-2025.deps.json
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\bin\Debug\net7.0\atividade-7-Isabely-02-10-2025.runtimeconfig.json
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\bin\Debug\net7.0\atividade-7-Isabely-02-10-2025.dll
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\bin\Debug\net7.0\atividade-7-Isabely-02-10-2025.pdb
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\obj\Debug\net7.0\atividade-7-Isabely-02-10-2025.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\obj\Debug\net7.0\atividade-7-Isabely-02-10-2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\obj\Debug\net7.0\atividade-7-Isabely-02-10-2025.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\obj\Debug\net7.0\atividade-7-Isabely-02-10-2025.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\obj\Debug\net7.0\atividade-7-Isabely-02-10-2025.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\obj\Debug\net7.0\atividade-7-Isabely-02-10-2025.dll
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\obj\Debug\net7.0\refint\atividade-7-Isabely-02-10-2025.dll
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\obj\Debug\net7.0\atividade-7-Isabely-02-10-2025.pdb
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\obj\Debug\net7.0\atividade-7-Isabely-02-10-2025.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade-7-Isabely-02-10-2025\atividade-7-Isabely-02-10-2025\obj\Debug\net7.0\ref\atividade-7-Isabely-02-10-2025.dll
