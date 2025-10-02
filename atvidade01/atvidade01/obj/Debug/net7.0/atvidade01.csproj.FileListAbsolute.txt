@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\bin\Debug\net7.0\atvidade01.exe
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\bin\Debug\net7.0\atvidade01.deps.json
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\bin\Debug\net7.0\atvidade01.runtimeconfig.json
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\bin\Debug\net7.0\atvidade01.dll
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\bin\Debug\net7.0\atvidade01.pdb
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\obj\Debug\net7.0\atvidade01.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\obj\Debug\net7.0\atvidade01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\obj\Debug\net7.0\atvidade01.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\obj\Debug\net7.0\atvidade01.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\obj\Debug\net7.0\atvidade01.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\obj\Debug\net7.0\atvidade01.dll
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\obj\Debug\net7.0\refint\atvidade01.dll
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\obj\Debug\net7.0\atvidade01.pdb
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\obj\Debug\net7.0\atvidade01.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atvidade01\atvidade01\obj\Debug\net7.0\ref\atvidade01.dll
