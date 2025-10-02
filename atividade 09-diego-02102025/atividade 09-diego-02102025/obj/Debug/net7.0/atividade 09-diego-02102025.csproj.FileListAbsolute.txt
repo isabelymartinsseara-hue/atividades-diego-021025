@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\bin\Debug\net7.0\atividade 09-diego-02102025.exe
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\bin\Debug\net7.0\atividade 09-diego-02102025.deps.json
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\bin\Debug\net7.0\atividade 09-diego-02102025.runtimeconfig.json
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\bin\Debug\net7.0\atividade 09-diego-02102025.dll
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\bin\Debug\net7.0\atividade 09-diego-02102025.pdb
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\obj\Debug\net7.0\atividade 09-diego-02102025.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\obj\Debug\net7.0\atividade 09-diego-02102025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\obj\Debug\net7.0\atividade 09-diego-02102025.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\obj\Debug\net7.0\atividade 09-diego-02102025.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\obj\Debug\net7.0\atividade 09-diego-02102025.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\obj\Debug\net7.0\atividade 09-diego-02102025.dll
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\obj\Debug\net7.0\refint\atividade 09-diego-02102025.dll
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\obj\Debug\net7.0\atividade 09-diego-02102025.pdb
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\obj\Debug\net7.0\atividade 09-diego-02102025.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 7 de Isabely 02-10-2025\atividade 09-diego-02102025\atividade 09-diego-02102025\obj\Debug\net7.0\ref\atividade 09-diego-02102025.dll

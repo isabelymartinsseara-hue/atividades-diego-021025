@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "atividade 09-diego-02102025/1.0.0": {
+        "runtime": {
+          "atividade 09-diego-02102025.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atividade 09-diego-02102025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
