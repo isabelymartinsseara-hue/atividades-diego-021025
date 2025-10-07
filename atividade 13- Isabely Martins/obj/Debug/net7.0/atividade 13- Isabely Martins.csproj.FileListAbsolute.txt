@@ -1,0 +1,5 @@
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 13- Isabely Martins\atividade 13- Isabely Martins\obj\Debug\net7.0\atividade 13- Isabely Martins.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 13- Isabely Martins\atividade 13- Isabely Martins\obj\Debug\net7.0\atividade 13- Isabely Martins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 13- Isabely Martins\atividade 13- Isabely Martins\obj\Debug\net7.0\atividade 13- Isabely Martins.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 13- Isabely Martins\atividade 13- Isabely Martins\obj\Debug\net7.0\atividade 13- Isabely Martins.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21104010\Desktop\atividade 13- Isabely Martins\atividade 13- Isabely Martins\obj\Debug\net7.0\atividade 13- Isabely Martins.csproj.CoreCompileInputs.cache
